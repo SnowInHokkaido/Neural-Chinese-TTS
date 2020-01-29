@@ -1,3 +1,4 @@
 *.pth.tar
 *.pyc
 *.log
+*.html
