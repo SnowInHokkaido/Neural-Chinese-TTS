@@ -5,6 +5,10 @@ This repo is an open-source TTS web server for Chinese text-to-speech task. The 
 
 It is a very simple web server which could be a benchmark for Chinese TTS research.
 
+## Demo Address ##
+
+<http://116.85.43.87:8008/tts/>
+
 ## Model Training ##
 The training code can be found here <https://github.com/mozilla/TTS>. The model training was accomplished in a NVIDIA 1070TI within 36 hours.
 
